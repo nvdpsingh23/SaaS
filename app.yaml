@@ -1,0 +1,5 @@
+runtime: nodejs20
+instance_class: F1
+env_variables:
+  GOOGLE_CLOUD_PROJECT: saas-server-439519
+  NODE_ENV: production
