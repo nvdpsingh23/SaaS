@@ -1,6 +1,0 @@
-runtime: nodejs18
-env: standard
-entrypoint: node index.js
-
-env_variables:
-  GOOGLE_APPLICATION_CREDENTIALS: "qwiklabs-gcp-00-edd6a845c2e8-3a7472895710.json"
